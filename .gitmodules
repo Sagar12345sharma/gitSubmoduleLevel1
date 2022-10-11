@@ -1,0 +1,6 @@
+[submodule "gitSubmoduleLevel22"]
+	path = gitSubmoduleLevel22
+	url = git@github.com:Sagar12345sharma/gitSubmoduleLevel22.git
+[submodule "gitSubmoduleLevel21"]
+	path = gitSubmoduleLevel21
+	url = git@github.com:Sagar12345sharma/gitSubmoduleLevel21.git
